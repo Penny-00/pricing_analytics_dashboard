@@ -713,7 +713,7 @@ Possible improvements under consideration:
 - Market inflation tracking
 - Vendor reliability scores
 - Automated alerts when prices change
-- Google Forms / Airtable ingestion
+- Google Forms ingestion for data capture by supplier reps
 - BigQuery migration
 - Looker Studio reporting
 
